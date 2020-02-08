@@ -14,7 +14,7 @@ if (empty($email)|| empty($password)) {
  	header("Location: ../login.php?error=emptyfields");
  	exit();
  }else{
- 	$sql="SELECT * FROM user_table WHERE email=?;";
+ 	$sql="SELECT * FROM user WHERE email=?;";
  	$stmt=mysqli_stmt_init($conn);
  	if(!mysqli_stmt_prepare($stmt,$sql)){
 	header("Location: ../login.php?sqlerror");

@@ -55,25 +55,12 @@
           <li class="menu-active"><a href="index.php">Home</a></li>
           <li><a href="#about">About Us</a></li>
           <li><a href="#services">Services</a></li>
-          <li><a href="#portfolio">Portfolio</a></li>
-          <li><a href="#team">Team</a></li>
-          <li class="menu-has-children"><a href="available.php">Donate or Take&give</a>
-            <ul>
-            <li class="menu-has-children"><a href="">Donate</a>
-            <ul>
-              <li><button class="btn btn-primary btn-lg" data-toggle="modal" data-target="#food">
-              Food
-              </button>
+        
+          
             
-            </li>
-              <li><button class="btn btn-primary btn-lg" data-toggle="modal" data-target="#clothes">
-               Clothes
-              </button></li>
-            </ul>
-            <li><a href="t&g.php">Take and give</a></li>
-             
-            </ul>
-          </li>
+             <li><a href="login.php">Login</a></li>
+              <li><a href="register.php">Register</a></li>
+            
           <li><a href="#contact">Contact </a></li>
         </ul>
       </nav><!-- #nav-menu-container -->
