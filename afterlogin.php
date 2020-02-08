@@ -270,35 +270,25 @@
       <div class="container">
 
         <header class="section-header">
-          <h3>Our Skills</h3>
-          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip</p>
+          <h3>Our Workflow</h3>
+          <p>We work on following things</p>
         </header>
 
         <div class="skills-content">
 
           <div class="progress">
             <div class="progress-bar bg-success" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100">
-              <span class="skill">HTML <i class="val">100%</i></span>
+              <span class="skill">Food <i class="val">100%</i></span>
             </div>
           </div>
 
           <div class="progress">
             <div class="progress-bar bg-info" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100">
-              <span class="skill">CSS <i class="val">90%</i></span>
+              <span class="skill">Clothes <i class="val">90%</i></span>
             </div>
           </div>
 
-          <div class="progress">
-            <div class="progress-bar bg-warning" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100">
-              <span class="skill">JavaScript <i class="val">75%</i></span>
-            </div>
-          </div>
-
-          <div class="progress">
-            <div class="progress-bar bg-danger" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100">
-              <span class="skill">Photoshop <i class="val">55%</i></span>
-            </div>
-          </div>
+          
 
         </div>
 
@@ -712,7 +702,7 @@
             <div class="contact-address">
               <i class="ion-ios-location-outline"></i>
               <h3>Address</h3>
-              <address>A108 Adam Street, NY 535022, USA</address>
+              <address>Dhapakhel,Lalitpur</address>
             </div>
           </div>
 
@@ -720,7 +710,7 @@
             <div class="contact-phone">
               <i class="ion-ios-telephone-outline"></i>
               <h3>Phone Number</h3>
-              <p><a href="tel:+155895548855">+1 5589 55488 55</a></p>
+              <p><a href="tel:+155895548855">01 460 448</a></p>
             </div>
           </div>
 
@@ -728,7 +718,7 @@
             <div class="contact-email">
               <i class="ion-ios-email-outline"></i>
               <h3>Email</h3>
-              <p><a href="mailto:info@example.com">info@example.com</a></p>
+              <p><a href="mailto:info@example.com">admin@fooddo.com</a></p>
             </div>
           </div>
 
