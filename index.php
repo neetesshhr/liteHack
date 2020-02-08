@@ -70,7 +70,7 @@
             <div class="carousel-background"><img src="img/intro-carousel/2.jpg" alt=""></div>
             <div class="carousel-container">
               <div class="carousel-content">
-                <h2>At vero eos et accusamus</h2>
+                <h2>If you can’t finish it, share it with a person</h2>
                 <p>Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut.</p>
                 <a href="#featured-services" class="btn-get-started scrollto">Get Started</a>
               </div>
@@ -81,7 +81,7 @@
             <div class="carousel-background"><img src="img/intro-carousel/3.jpg" alt=""></div>
             <div class="carousel-container">
               <div class="carousel-content">
-                <h2>Temporibus autem quibusdam</h2>
+                <h2>Please don’t waste food. Live simply, so that others may simply live</h2>
                 <p>Beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt omnis iste natus error sit voluptatem accusantium.</p>
                 <a href="#featured-services" class="btn-get-started scrollto">Get Started</a>
               </div>
@@ -92,7 +92,7 @@
             <div class="carousel-background"><img src="img/intro-carousel/4.jpg" alt=""></div>
             <div class="carousel-container">
               <div class="carousel-content">
-                <h2>Nam libero tempore</h2>
+                <h2>Think, Eat, Save.</h2>
                 <p>lets not waste food.....</p>
                 <a href="#featured-services" class="btn-get-started scrollto">Get Started</a>
               </div>
@@ -103,7 +103,7 @@
             <div class="carousel-background"><img src="img/intro-carousel/5.jpg" alt=""></div>
             <div class="carousel-container">
               <div class="carousel-content">
-                <h2>Magnam aliquam quaerat</h2>
+                <h2>You need determination to prevent food contamination.</h2>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
                 <a href="#featured-services" class="btn-get-started scrollto">Get Started</a>
               </div>
