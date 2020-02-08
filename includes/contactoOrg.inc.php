@@ -7,7 +7,7 @@ $no=$_POST["no"];
 require 'dbh.inc.php';
 require 'function.inc.php';
 
-$sql="SELECT * from user_table where uid=?;";
+$sql="SELECT * from user where uid=?;";
 $stmt=mysqli_stmt_init($conn);
 if (!mysqli_stmt_prepare($stmt,$sql)) {
 	echo "SQL error";
