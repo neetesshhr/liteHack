@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <<head>
+    <head>
   <meta charset="utf-8">
   <title>BizPage Bootstrap Template</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
@@ -91,7 +91,6 @@
         <h4 class="modal-title" id="myModalLabel">Donate Food</h4>
       </div>
       <div class="modal-body">
-        ...
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
