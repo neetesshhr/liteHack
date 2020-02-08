@@ -57,7 +57,7 @@
           <li><a href="#services">Services</a></li>
           <li><a href="#portfolio">Portfolio</a></li>
           <li><a href="#team">Team</a></li>
-          <li class="menu-has-children"><a href="">Donate or Take&give</a>
+          <li class="menu-has-children"><a href="available.php">Donate or Take&give</a>
             <ul>
             <li class="menu-has-children"><a href="">Donate</a>
             <ul>
