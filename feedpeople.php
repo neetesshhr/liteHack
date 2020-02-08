@@ -18,7 +18,7 @@
     <br>
     <?php
     require "includes/function.inc.php";
-    $feed= "select * from user_table where type = 'Organization' ";
+    $feed= "select * from user where type = 'Organization' ";
     $runfeed = mysqli_query($conn,$feed);
     while($rowfeed = mysqli_fetch_array($runfeed)){
         $uid = $rowfeed['uid'];
