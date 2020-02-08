@@ -59,9 +59,19 @@
           <li class="menu-has-children"><a href="">Donate or Take&give</a>
             <ul>
               <!-- Button trigger modal -->
-              <button class="btn btn-primary btn-md" data-toggle="modal" data-target="#myModal">
-                Donate
-                </button>
+              <li class="menu-has-children"><a href="">Donate</a>
+              <ul>
+                <li>
+                <button class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">
+                 Food
+                  </button>
+                </li>
+                <li>
+                <button class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">
+                 Clothes
+                  </button>
+                </li>
+              </ul>
               
               <li><a href="#">Take and give</a></li>
              
