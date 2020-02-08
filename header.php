@@ -16,8 +16,8 @@
           <li><a href="#team">Team</a></li>
           <li class="menu-has-children"><a href="">Donate or Take&give</a>
             <ul>
-              <li><a href="#">Donate</a></li>
-              <li><a href="#">Take and give</a></li>
+              <li><a  href="donate.php">Donate</a></li>
+              <li><a href="t&g.php">Take and give</a></li>
              
             </ul>
           </li>
