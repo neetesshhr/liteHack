@@ -24,7 +24,7 @@ if (isset($_POST['submitFromPerson'])) {
 			header("Location: ../signup.php?error=weakpassword");
 			exit();
 		}else{
-			$sql="INSERT into user_table(name,address,email,phone_no,pwd,type) VALUES(?,?,?,?,?,?)";
+			$sql="INSERT into user(name,address,email,phone_no,pwd,type) VALUES(?,?,?,?,?,?)";
 			$stmt=mysqli_stmt_init($conn);
 			if (!mysqli_stmt_prepare($stmt,$sql)) {
 				echo "Failed sql";
@@ -66,7 +66,7 @@ if (isset($_POST['submitFromPerson'])) {
 			header("Location: ../signup.php?error=weakpassword");
 			exit();
 		}else{
-			$sql="INSERT into user_table(name,address,email,phone_no,pwd,type) VALUES(?,?,?,?,?,?)";
+			$sql="INSERT into user(name,address,email,phone_no,pwd,type) VALUES(?,?,?,?,?,?)";
 			$stmt=mysqli_stmt_init($conn);
 			if (!mysqli_stmt_prepare($stmt,$sql)) {
 				echo "Failed sql";
@@ -105,7 +105,7 @@ if (isset($_POST['submitFromPerson'])) {
 			header("Location: ../register.php?error=weakpassword");
 			exit();
 		}else{
-			$sql="INSERT into user_table(name,address,email,phone_no,pwd,type) VALUES(?,?,?,?,?,?)";
+			$sql="INSERT into user(name,address,email,phone_no,pwd,type) VALUES(?,?,?,?,?,?)";
 			$stmt=mysqli_stmt_init($conn);
 			if (!mysqli_stmt_prepare($stmt,$sql)) {
 				echo "Failed sql";
