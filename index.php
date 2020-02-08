@@ -528,8 +528,8 @@
           </div>
 
           <div class="testimonial-item">
-            <img src="img/testimonial-2.jpg" class="testimonial-img" alt="">
-            <h3>Sara Wilsson</h3>
+            <img src="img/ravi.jpg" class="testimonial-img" alt="">
+            <h3>Ravi</h3>
             <h4>Designer</h4>
             <p>
               <img src="img/quote-sign-left.png" class="quote-sign-left" alt="">
@@ -590,10 +590,10 @@
 
           <div class="col-lg-3 col-md-6 wow fadeInUp">
             <div class="member">
-              <img src="img/team-1.jpg" class="img-fluid" alt="">
+              <img src="img/nitesh.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
-                  <h4>Walter White</h4>
+                  <h4>Nitesh Rijal</h4>
                   <span>Chief Executive Officer</span>
                   <div class="social">
                     <a href=""><i class="fa fa-twitter"></i></a>
@@ -608,10 +608,10 @@
 
           <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
             <div class="member">
-              <img src="img/team-2.jpg" class="img-fluid" alt="">
+              <img src="img/ravi.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
-                  <h4>Sarah Jhonson</h4>
+                  <h4>Ravi Thapa</h4>
                   <span>Product Manager</span>
                   <div class="social">
                     <a href=""><i class="fa fa-twitter"></i></a>
@@ -626,10 +626,10 @@
 
           <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
             <div class="member">
-              <img src="img/team-3.jpg" class="img-fluid" alt="">
+              <img src="img/shreya.jpg" class="img-fluid" alt="">
               <div class="member-info">
                 <div class="member-info-content">
-                  <h4>William Anderson</h4>
+                  <h4>Shreya KC</h4>
                   <span>CTO</span>
                   <div class="social">
                     <a href=""><i class="fa fa-twitter"></i></a>
