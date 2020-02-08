@@ -324,8 +324,23 @@
 
         <header class="section-header">
           <h3>Facts</h3>
-          <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque</p>
+          <p>Fact On Wastages of food</p>
         </header>
+        <ul>
+          <li>
+          <p>1.3 billion tons of food are wasted every year</p>
+          </li>
+          <li><p>This amounts to US$1 trillion dollars of wasted or lost food</p>
+          </li>
+          <li>
+          <p>If wasted food was a country, 
+            it would be the third largest producer of carbon dioxide in the world, after the United States and China</p>
+          </li>
+          <li>
+          <p>Just one quarter of all wasted food could feed the 
+            795 million undernourished people around the world who suffer from hunger</p>
+          </li>
+        </ul>
 
         <div class="row counters">
 
