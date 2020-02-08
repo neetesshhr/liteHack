@@ -58,22 +58,8 @@
           <li><a href="#team">Team</a></li>
           <li class="menu-has-children"><a href="">Donate or Take&give</a>
             <ul>
-              <!-- Button trigger modal -->
-              <li class="menu-has-children"><a href="">Donate</a>
-              <ul>
-                <li>
-                <button class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">
-                 Food
-                  </button>
-                </li>
-                <li>
-                <button class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">
-                 Clothes
-                  </button>
-                </li>
-              </ul>
-              
-              <li><a href="#">Take and give</a></li>
+              <li><a  href="donate.php">Donate</a></li>
+              <li><a href="t&g.php">Take and give</a></li>
              
             </ul>
           </li>
@@ -82,15 +68,23 @@
       </nav><!-- #nav-menu-container -->
     </div>
   </header><!-- #header -->
+  <script src="lib/jquery/jquery.min.js"></script>
+  <script src="lib/jquery/jquery-migrate.min.js"></script>
+  <script src="lib/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="lib/easing/easing.min.js"></script>
+  <script src="lib/superfish/hoverIntent.js"></script>
+  <script src="lib/superfish/superfish.min.js"></script>
+  <script src="lib/wow/wow.min.js"></script>
+  <script src="lib/waypoints/waypoints.min.js"></script>
+  <script src="lib/counterup/counterup.min.js"></script>
+  <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+  <script src="lib/isotope/isotope.pkgd.min.js"></script>
+  <script src="lib/lightbox/js/lightbox.min.js"></script>
+  <script src="lib/touchSwipe/jquery.touchSwipe.min.js"></script>
+  <!-- Contact Form JavaScript File -->
+  <script src="contactform/contactform.js"></script>
 
-  <!-- Modal -->
-  <div class="dropdown">
-  <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-    Dropdown button
-  </button>
-  <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-    <a class="dropdown-item" href="#">Action</a>
-    <a class="dropdown-item" href="#">Another action</a>
-    <a class="dropdown-item" href="#">Something else here</a>
-  </div>
-</div>
+  <!-- Template Main Javascript File -->
+  <script src="js/main.js"></script>
+  </body>
+  </html>
