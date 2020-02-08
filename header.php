@@ -91,10 +91,7 @@
         <h4 class="modal-title" id="myModalLabel">Donate Foods</h4>
       </div>
       <div class="modal-body">
-<<<<<<< HEAD
         
-=======
->>>>>>> 50c0b3ad9af01ef5a4307d8ddaf24d8bc5f9bc29
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
