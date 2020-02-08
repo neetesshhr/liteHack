@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <<head>
+    <head>
   <meta charset="utf-8">
-  <title>BizPage Bootstrap Template</title>
+  <title>FoodDo</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta content="" name="keywords">
   <meta content="" name="description">
@@ -83,15 +83,14 @@
   </header><!-- #header -->
 
 <!-- Modal -->
-<div class="modal fade" id="food" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal fade " id="food" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
   <div class="modal-dialog">
     <div class="modal-content">
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-        <h4 class="modal-title" id="myModalLabel">Donate Food</h4>
+        <h4 class="modal-title" id="myModalLabel">Donate Foods</h4>
       </div>
       <div class="modal-body">
-        ...
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -100,7 +99,7 @@
     </div>
   </div>
 </div>
-<div class="modal fade" id="clothes" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal fade my-auto" id="clothes" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
   <div class="modal-dialog">
     <div class="modal-content">
       <div class="modal-header">
